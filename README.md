@@ -1,6 +1,4 @@
-# Web-proof-app-
-Web proof app full details in this repo and see this repo
-
+web proof app detail
 <!DOCTYPE html>
 <html lang="en">
 <head>
